@@ -1,3 +1,7 @@
+# I'm not maintaining this. Use a fork.
+
+* [this one](https://github.com/hernanex3/heroku-buildpack-tor) has caching and integrity checking. There are others.
+
 # Tor Hidden Service Buildpack for Heroku
 
 This buildpack sets up a Tor hidden service for your app on Heroku.
